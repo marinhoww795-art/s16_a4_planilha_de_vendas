@@ -51,7 +51,21 @@ Identifique qual vendedor obteve maior total de vendas. Ele deve exibir:
 ## Etapa 6 – Texto explicativo
 Analise todos os passos realizados e responda:
 *	Como os laços aninhados foram utilizados?
+    R:Ele foi usado em todo o codigo, lendo matrizes usando o for
 
 *	Como foi feito o controle de índices?
+    R:Lendo, somando e comparando matrizes
 
 *	Qual foi o resultado da análise?
+    R:
+    total vendedor 1; R$3800
+    total vendedor 2; R$3700
+    total vendedor 3; R$4200
+    ----------------------------
+    total vendido no mes 1; R$3100
+    total vendido no mes 2; R$4500
+    total vendido no mes 3; R$4100
+    ----------------------------
+    total da empresa; R$11700
+    ----------------------------
+    O melhor vendedor foi o 3º com R$4200 
